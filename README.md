@@ -160,7 +160,7 @@ One object per listing. Here is a real example from a production run:
 
 *Truncated — full records contain 51 fields. See Output fields for the complete schema.*
 
-**[Try Hellowork Jobs Scraper now — $5 free credit, no credit card →](https://apify.com/blackfalcondata/hellowork-scraper?fpr=1h3gvi)**
+**[Try Hellowork Scraper now — $5 free credit, no credit card →](https://apify.com/blackfalcondata/hellowork-scraper?fpr=1h3gvi)**
 
 ---
 
