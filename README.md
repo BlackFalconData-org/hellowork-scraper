@@ -170,8 +170,8 @@ Pay only for what you extract. No subscription required — Apify's free $5 cred
 
 | Event | Price (USD) |
 | --- | --- |
-| Actor Start | $0.01 |
-| Result | $0.0015 |
+| Actor Start | $0.008 |
+| Result | $0.001 |
 
 See the [actor on Apify](https://apify.com/blackfalcondata/hellowork-scraper?fpr=1h3gvi) for current pricing.
 
