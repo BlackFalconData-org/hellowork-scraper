@@ -1,8 +1,8 @@
-# Hellowork Jobs Scraper
+# Hellowork Scraper
 
-Extract structured data from [hellowork.com](https://hellowork.com) — hellowork.com — France's major job board. Salary ranges, location data, and incremental change tracking. Incremental mode detects new and changed listings.
+Extract structured job data from [hellowork.com](https://hellowork.com) — France's major job board. Salary ranges, location data, and incremental change tracking across runs.
 
-**[Hellowork Jobs Scraper on Apify →](https://apify.com/blackfalcondata/hellowork-scraper?fpr=1h3gvi)**
+**[Hellowork Scraper on Apify →](https://apify.com/blackfalcondata/hellowork-scraper?fpr=1h3gvi)**
 
 ---
 
